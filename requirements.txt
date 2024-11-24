@@ -1,0 +1,2 @@
+requests==2.31.0
+html-testRunner==1.2.1
